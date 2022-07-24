@@ -1,0 +1,5 @@
+﻿  GlobalManager.cpp
+C:\MyFolder\MyWorks\university\sem 7\ESh\CommunicationProtocol_7_GlobalManager\CommunicationProtocol\CommunicationProtocol\GlobalManager.cpp(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\MyFolder\MyWorks\university\sem 7\ESh\CommunicationProtocol_7_GlobalManager\CommunicationProtocol\CommunicationProtocol\GlobalManager.cpp(107,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\MyFolder\MyWorks\university\sem 7\ESh\CommunicationProtocol_7_GlobalManager\CommunicationProtocol\CommunicationProtocol\GlobalManager.cpp(115,23): warning C4018: <: несоответствие типов со знаком и без знака
+  CommunicationProtocol.vcxproj -> C:\MyFolder\MyWorks\university\sem 7\ESh\CommunicationProtocol_7_GlobalManager\CommunicationProtocol\Debug\CommunicationProtocol.exe
