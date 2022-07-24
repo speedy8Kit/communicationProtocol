@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\MessageManager">
+      <UniqueIdentifier>{cc76a04f-2d6c-4346-aac6-c83e511c8ee4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\MessageManager\Message">
+      <UniqueIdentifier>{d2f3de26-87cb-4d93-a57a-896010d31fd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\MessageManager\Message\Content">
+      <UniqueIdentifier>{fc532778-a185-4a58-ae9e-448dd175185c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\MessageManager\InteractionInterface">
+      <UniqueIdentifier>{8526f6b7-b40e-4f07-b61b-8aba3fb56fc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\MessageManager">
+      <UniqueIdentifier>{91048691-f747-4dc1-8005-50f60dcb0025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\MessageManager\Message">
+      <UniqueIdentifier>{5635284d-b33b-4b1a-a61b-1985b8833dab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\MessageManager\Message\Content">
+      <UniqueIdentifier>{13332a1b-96d8-46a1-b3d6-91306edbf955}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\MessageManager\InteractionInterface">
+      <UniqueIdentifier>{978f8339-5441-4dcb-92b2-2d381579bb79}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MessageManager.cpp">
+      <Filter>Исходные файлы\MessageManager</Filter>
+    </ClCompile>
+    <ClCompile Include="QueueMessage.cpp">
+      <Filter>Исходные файлы\MessageManager</Filter>
+    </ClCompile>
+    <ClCompile Include="CommunicationProtocol.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Message.cpp">
+      <Filter>Исходные файлы\MessageManager\Message</Filter>
+    </ClCompile>
+    <ClCompile Include="CreatorContents.cpp">
+      <Filter>Исходные файлы\MessageManager\Message\Content</Filter>
+    </ClCompile>
+    <ClCompile Include="Contents.cpp">
+      <Filter>Исходные файлы\MessageManager\Message\Content</Filter>
+    </ClCompile>
+    <ClCompile Include="UDP.cpp">
+      <Filter>Исходные файлы\MessageManager\InteractionInterface</Filter>
+    </ClCompile>
+    <ClCompile Include="ACBaseComponent.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MessageManager.h">
+      <Filter>Файлы заголовков\MessageManager</Filter>
+    </ClInclude>
+    <ClInclude Include="QueueMessage.h">
+      <Filter>Файлы заголовков\MessageManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Contents.h">
+      <Filter>Файлы заголовков\MessageManager\Message\Content</Filter>
+    </ClInclude>
+    <ClInclude Include="Message.h">
+      <Filter>Файлы заголовков\MessageManager\Message</Filter>
+    </ClInclude>
+    <ClInclude Include="ACExchangeInterface.h">
+      <Filter>Файлы заголовков\MessageManager\InteractionInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="UDP.h">
+      <Filter>Файлы заголовков\MessageManager\InteractionInterface</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="StructsForContents.h">
+      <Filter>Файлы заголовков\MessageManager\Message\Content</Filter>
+    </ClInclude>
+    <ClInclude Include="StructsForMessage.h">
+      <Filter>Файлы заголовков\MessageManager\Message</Filter>
+    </ClInclude>
+    <ClInclude Include="CreatorContents.h">
+      <Filter>Файлы заголовков\MessageManager\Message\Content</Filter>
+    </ClInclude>
+    <ClInclude Include="ACBaseComponent.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

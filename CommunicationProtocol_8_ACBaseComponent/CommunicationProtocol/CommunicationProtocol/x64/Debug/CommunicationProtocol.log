@@ -1,0 +1,13 @@
+﻿  CommunicationProtocol.cpp
+C:\MyFolder\MyWorks\university\sem 7\ESh\CommunicationProtocol_6\CommunicationProtocol_server\CommunicationProtocol\Tests.h(383,69): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\MyFolder\MyWorks\university\sem 7\ESh\CommunicationProtocol_6\CommunicationProtocol_server\CommunicationProtocol\Tests.h(674,73): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\MyFolder\MyWorks\university\sem 7\ESh\CommunicationProtocol_6\CommunicationProtocol_server\CommunicationProtocol\Tests.h(655,10): warning C4101: m_buff: неиспользованная локальная переменная
+C:\MyFolder\MyWorks\university\sem 7\ESh\CommunicationProtocol_6\CommunicationProtocol_server\CommunicationProtocol\Tests.h(697,64): warning C4267: аргумент: преобразование из "size_t" в "u_short"; возможна потеря данных
+C:\MyFolder\MyWorks\university\sem 7\ESh\CommunicationProtocol_6\CommunicationProtocol_server\CommunicationProtocol\Tests.h(702,25): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+C:\MyFolder\MyWorks\university\sem 7\ESh\CommunicationProtocol_6\CommunicationProtocol_server\CommunicationProtocol\Tests.h(703,25): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+C:\MyFolder\MyWorks\university\sem 7\ESh\CommunicationProtocol_6\CommunicationProtocol_server\CommunicationProtocol\Tests.h(704,25): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+  GlobalManager.cpp
+  MapAddress.cpp
+  MessageManager.cpp
+  Создание кода...
+  CommunicationProtocol.vcxproj -> C:\MyFolder\MyWorks\university\sem 7\ESh\CommunicationProtocol_6\CommunicationProtocol_server\x64\Debug\CommunicationProtocol.exe
